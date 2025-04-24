@@ -173,4 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-./neurocomputing-lab/dataset
+neurocomputing-lab/dataset/
