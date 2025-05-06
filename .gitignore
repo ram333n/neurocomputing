@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 
 neurocomputing-lab/dataset/
+neurocomputing-lab/dataset_yolo/
+neurocomputing-lab/yolov8n.pt
