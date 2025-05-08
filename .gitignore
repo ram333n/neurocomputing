@@ -176,4 +176,5 @@ cython_debug/
 neurocomputing-lab/dataset/
 neurocomputing-lab/dataset_yolo/
 neurocomputing-lab/yolov8n.pt
+neurocomputing-lab/yolov11n.pt
 runs/
